@@ -134,7 +134,25 @@ h1 {
 
 
 
+.all_bg{
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #0CD570;
+    background-image: url(../images/bg.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-bottom-right-radius: 80px;
+    border-bottom-left-radius: 80px;
+}
 
+.all_bg h1{
+    font-size: 50px;
+    color: #fff;
+}
 
 @media only screen and (max-width: 1110px) {
 

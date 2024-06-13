@@ -2,9 +2,12 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
+<meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <meta name="description" content="Durbar Court Hotel, located opposite Dr. Baidoe Memorial Clinic in Adiembra, Kumasi, Ghana, offers comfortable rooms, fine dining, and exceptional service. Experience luxury and Ghanaian hospitality with us.">
+    <meta name="keywords" content="Durbar Court Hotel, Kumasi hotel, Adiembra hotel, Ghana accommodation, luxury hotel Kumasi, Ghana hospitality">
+    <meta name="author" content="Durbar Court Hotel">
+    <title>Durbar Court Hotel | Luxury Accommodation in Kumasi, Ghana</title>
     <?php include 'cdn.php' ?>
     <link rel="stylesheet" href="./css/base.css">
     <link rel="stylesheet" href="./css/index.css">
@@ -16,6 +19,18 @@
             <?php include 'navbar.php' ?>
             <div class="swiper mySwiper">
                 <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                        <img src="./images/1.jpeg" alt="">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="./images/1.jpeg" alt="">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="./images/1.jpeg" alt="">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="./images/1.jpeg" alt="">
+                    </div>
                     <div class="swiper-slide">
                         <img src="./images/1.jpeg" alt="">
                     </div>
@@ -24,7 +39,7 @@
                     </div>
                 </div>
                 <div class="hero_text" id="heroText">
-                    <h1>WELCOME TO DURBAR <br> COURT HOTEL</h1>
+                    <h1>WELCOME TO DURBAR <br> COURT HOTEL.</h1>
                     <p>Where luxury is not just a place but it's experiences</p>
                     <a href="">
                         <button>Make a Reservation</button>

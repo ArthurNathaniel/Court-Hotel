@@ -1,0 +1,36 @@
+.details{
+    padding: 0 7%;
+}
+
+.details_two{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    margin-top: 50px;
+}
+
+.ones p{
+    margin-bottom: 20px;
+}
+.dash{
+    /* border: 2px solid red; */
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.dash h1{
+    width: 20%;
+    border-bottom: 2px dashed;
+    border-top: 2px dashed;
+    margin-top: 40px;
+    text-align: center;
+    padding-block: 20px;
+    text-transform: uppercase;
+}
+
+.room_slide{
+    margin-top: 70px;
+    padding: 0 10%;
+    height: 70vh;
+}

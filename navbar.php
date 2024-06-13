@@ -6,15 +6,15 @@
         <div class="dropdown">
             <a href="#">Our Rooms <span><i class="fa-solid fa-angle-down"></i></span></a>
             <div class="dropdown-content">
-                <a href="#">Standard Room</a>
+                <a href="rooms.php">Standard Room</a>
                 <a href="#">Standard Room</a>
                 <a href="#">Standard Room</a>
                 <a href="#">Standard Room</a>
                 <a href="#">Standard Room</a>
             </div>
         </div>
-        <a href="#">Gallery</a>
-        <a href="#">Contact Us</a>
+        <a href="gallery.php">Gallery</a>
+        <a href="contact.php">Contact Us</a>
     </div>
 
     <button id="toggleButton">
@@ -33,8 +33,8 @@
                 <a href="#">Standard Room</a>
             </div>
         </div>
-        <a href="#">Gallery</a>
-        <a href="#">Contact Us</a>
+        <a href="gallery.php">Gallery</a>
+        <a href="contact.php">Contact Us</a>
     </div>
 </div>
 
